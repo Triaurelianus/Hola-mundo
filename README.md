@@ -1,2 +1,2 @@
 # Hola-mundo
-Mi primer Repositorio gay
+Mi primer Repositorio Compas
